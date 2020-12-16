@@ -49,4 +49,9 @@ body
 {
     background: white;
     padding: 1em;
+
+#footer
+{
+    color: white;
+    text-align: center;
 }
